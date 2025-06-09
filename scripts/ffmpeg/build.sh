@@ -50,7 +50,6 @@ DEP_LD_FLAGS="-L${BUILD_DIR_EXTERNAL}/${ANDROID_ABI}/lib $FFMPEG_EXTRA_LD_FLAGS"
   --disable-doc \
   --disable-decoders \
   --disable-encoders \
-  --enable-postproc \
   --enable-encoder=libx264 \
   --enable-encoder=aac \
   --enable-encoder=mpeg4 \
