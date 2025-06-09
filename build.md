@@ -1,1 +1,1 @@
---enable-pthreads --enable-gpl --enable-nonfree  --enable-libx264 --enable-libx265
+--enable-pthreads --enable-gpl --enable-nonfree  --enable-libx264 --enable-libx265 --disable-doc --disable-htmlpages --disable-manpages --disable-podpages --disable-txtpages
