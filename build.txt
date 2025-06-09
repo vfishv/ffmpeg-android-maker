@@ -1,0 +1,1 @@
+./ffmpeg-android-maker.sh -abis=armeabi-v7a,arm64-v8a,x86,x86_64 --enable-libx264 -android=16
