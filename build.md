@@ -1,0 +1,1 @@
+--enable-pthreads --enable-gpl -enable-nonfree  --enable-libx264 --enable-libx265
